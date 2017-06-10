@@ -15,7 +15,7 @@ int main(){
 	for(i=1;i<=n;i++){
 		if(sr[i-1]<=i) break;
 	}
- cout<<i-1;
-    return 0;
+ 	cout<<i-1;
+	return 0;
 }
 
